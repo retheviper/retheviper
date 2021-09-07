@@ -11,7 +11,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=retheviper&column=8&theme=flat"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=retheviper&column=8&theme=flat&margin-w=10"/>
 </a>
 
 ---
