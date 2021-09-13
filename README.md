@@ -4,7 +4,7 @@
 [![OCJP](https://img.shields.io/badge/-Oracle%20Certified%20Java%20Programmer-%23007396?style=flat-square&logo=java&link=https://www.youracclaim.com/badges/020a807c-24db-4d51-80a2-6416242c37ba/public_url)](https://www.youracclaim.com/badges/020a807c-24db-4d51-80a2-6416242c37ba/public_url)
 [![AWSCDA](https://img.shields.io/badge/-AWS%20Certified%20Developer%20--%20Associate-%23232F3E?style=flat-square&logo=amazon-aws&link=https://www.youracclaim.com/badges/fc543ac3-7a8c-4bfa-b443-25772a942ba9/public_url)](https://www.youracclaim.com/badges/fc543ac3-7a8c-4bfa-b443-25772a942ba9/public_url)
 
-Welcome! I'm server-side developer, which uses Kotlin. I'm also familiar with Java(1.8+).
+Welcome! I'm server-side developer, and uses Kotlin. I'm also familiar with Java(1.8+).
 
 Please visit my [portfolio site](https://retheviper.netlify.app) or [blog](https://retheviper.github.io) if you can read japanese. (But actually, I'm Korean)
 
