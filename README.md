@@ -17,8 +17,8 @@ Please visit my [portfolio site](https://retheviper.netlify.app) or [blog](https
 ---
 
 <div>
-  <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=retheviper&count_private=true&show_icons=true&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=retheviper&layout=compact&hide=javascript,html,css,scss,ruby,less,shell,php,handlebars,objective-c,makefile,dockerfile&langs_count=8&theme=onedark" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=retheviper&count_private=true&show_icons=true&theme=onedark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retheviper&layout=compact&hide=javascript,html,css,scss,ruby,less,shell,php,handlebars,objective-c,makefile,dockerfile&langs_count=8&theme=onedark" />
 </div>
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
