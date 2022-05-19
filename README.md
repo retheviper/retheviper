@@ -10,14 +10,16 @@ Please visit my [portfolio site](https://retheviper.netlify.app) or [blog](https
 
 ---
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=retheviper&column=8&theme=onedark&margin-w=10"/>
-</a>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=retheviper&column=7&theme=onedark&margin-w=10"/>
+  </a>
+</div>
 
 ---
 
-<div>
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=retheviper&count_private=true&show_icons=true&theme=onedark" />
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=retheviper&count_private=true&show_icons=true&theme=onedark" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retheviper&layout=compact&hide=javascript,html,css,scss,ruby,less,shell,php,handlebars,objective-c,makefile,dockerfile&langs_count=8&theme=onedark" />
 </div>
 
@@ -27,4 +29,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 Interested in:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,rust,swift,spring,qt,jenkins,mysql,postgres,docker,kubernetes,idea,vscode,bash,linux,git,github,gitlab,gcp,aws,azure&theme=light&perline=11)](https://skillicons.dev)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,py,rust,swift,spring,qt,jenkins,mysql,postgres,docker,kubernetes,idea,vscode,bash,linux,git,github,gitlab,gcp,aws,azure&theme=light&perline=11" />
+  </a>
+</div>
