@@ -23,3 +23,8 @@ Please visit my [portfolio site](https://retheviper.netlify.app) or [blog](https
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+Interested in:
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,rust,swift,spring,qt,jenkins,mysql,postgres,docker,kubernetes,idea,vscode,bash,linux,git,github,gitlab,gcp,aws,azure&theme=light&perline=11)](https://skillicons.dev)
