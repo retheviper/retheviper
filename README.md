@@ -32,6 +32,6 @@ Interested in:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,py,rust,swift,spring,qt,jenkins,mysql,postgres,docker,kubernetes,idea,vscode,bash,linux,git,github,gitlab,gcp,aws,azure&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=kotlin,swift,java,py,rust,wasm,ktor,spring,svelte,gradle,mysql,postgres,docker,kubernetes,idea,blender,bash,linux,git,github,gcp,aws&theme=light&perline=11" />
   </a>
 </div>
