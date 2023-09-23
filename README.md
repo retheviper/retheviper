@@ -28,7 +28,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 ---
 
-Interested in:
+### I'm interested in:
 
 <div align="center">
   <a href="https://skillicons.dev">
