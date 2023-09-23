@@ -7,7 +7,7 @@
 
 Welcome! I'm Kotlin server-side developer. Also familiar with Java(1.8+).
 
-Please visit my [portfolio site](https://retheviper.netlify.app) or [blog](https://retheviper.github.io) if you can read japanese. (But actually, I'm Korean)
+Please take a look at my [portfolio site](https://retheviper.netlify.app) or [blog](https://retheviper.github.io) if you can read japanese. (But actually, I'm Korean)
 
 ---
 
