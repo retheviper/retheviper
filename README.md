@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/英斌-金-6736ba194/)
 [![OCJP](https://img.shields.io/badge/-Oracle%20Certified%20Java%20Programmer-%23007396?style=flat-square&logo=oracle)](https://www.credly.com/badges/020a807c-24db-4d51-80a2-6416242c37ba/public_url)
-[![GCPPCD](https://img.shields.io/badge/-%20Professional%20Cloud%20Developer-%23007396?style=flat-square&logo=google&logoColor=ffffff)](https://www.credly.com/badges/9cf3aa93-31c2-4b55-b6d6-94b8283d1038/public_url)
 
 Welcome! I'm Kotlin server-side developer. Also familiar with Java(1.8+).
 
