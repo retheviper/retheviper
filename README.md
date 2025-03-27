@@ -11,7 +11,7 @@ Please take a look at my [portfolio site](https://retheviper.com) or [blog](http
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy-flax.vercel.app/?username=retheviper&column=9&theme=onedark&margin-w=10&no-bg=true"/>
+    <img width=800 style="display: block; margin: auto;" src="https://github-profile-trophy-flax.vercel.app/?username=retheviper&column=8&theme=onedark&margin-w=10&no-bg=true"/>
   </a>
 </div>
 
